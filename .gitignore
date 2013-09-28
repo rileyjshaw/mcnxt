@@ -28,3 +28,5 @@ proguard
 *.iws
 .idea/
 
+# tracking the eclipse workspace wtf
+.metadata
