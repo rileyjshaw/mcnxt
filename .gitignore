@@ -1,0 +1,30 @@
+# build files
+*.apk
+*.ap_
+
+# dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+
+# Local config
+local.properties
+
+# Eclipse project
+.classpath
+.project
+
+# Proguard whatever
+proguard
+
+# Intellij irrelevence (for this project)
+*.iml
+*.ipr
+*.iws
+.idea/
+
